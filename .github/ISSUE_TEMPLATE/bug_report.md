@@ -8,22 +8,22 @@ assignees: ''
 ---
 
 ## Description
-- 
+-
 
 ## To Reproduce
-- 
+-
 
 ## Expected Result
-- 
+-
 
 ## Screenshots
-- 
+-
 
 ## Addtional context
-- 
+-
 
 ## Possible Solution
-- 
+-
 
 ## Your Enviroment
-- 
+-
