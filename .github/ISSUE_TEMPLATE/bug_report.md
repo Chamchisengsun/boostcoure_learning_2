@@ -1,18 +1,29 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: "[FEAT] "
-labels: enhancement
+name: Bug report
+about: Reporting a bug for this project
+title: "[Bug] "
+labels: bug
 assignees: ''
 
 ---
 
-## Background
+## Description
 - 
 
-## Todo
-- [ ] Todo 1
-- [ ] Todo 2
+## To Reproduce
+- 
 
-## See also
-- #
+## Expected Result
+- 
+
+## Screenshots
+- 
+
+## Addtional context
+- 
+
+## Possible Solution
+- 
+
+## Your Enviroment
+- 
